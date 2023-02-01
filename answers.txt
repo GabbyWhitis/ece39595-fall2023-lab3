@@ -9,3 +9,10 @@ b. There may be difficulty with variable goals as each task is unique. This can 
 
 2. Scrum Master vs. Product Owner
 A scrum master leads the development team and supports the product owner by providing updates on the status of development. The product owner manages the backlog and ensures that the project meets the deliverable and client needs.
+
+3. 3 types of meetings during a sprint cycle
+a. Sprint planning meeting: figure out what tasks need to be completed in a coming sprint, assign story points to team members and discuss who will complete what
+
+b. Daily scrum/standup meeting: discuss completed work, discuss anticipated work, discuss any blockers that have/might occur
+
+c. Retrospective meeting: discuss completed work, discuss work that needs to be moved to the backlog because it wasn't finished
