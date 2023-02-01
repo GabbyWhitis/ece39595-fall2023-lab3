@@ -1,0 +1,8 @@
+1. Pros and Cons of Agile development
+Pros:
+a. Agile development allows for continous improvement. Each sprint allows for features and issues to continously be developed and enhanced.
+b. Less preparation is required for each feature and issue in agile environments. Becuase there are numerous sprints and iterations for each task, they can be broken down into more manageable pieces and improved faster.
+
+Cons:
+a. Agile development can lead to a lack of documentation. Because planning and progress are a higher priority during sprints, documentation may be abandoned.
+b. There may be difficulty with variable goals as each task is unique. This can lead to inaccurate costs and deadlines.
