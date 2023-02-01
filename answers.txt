@@ -6,3 +6,6 @@ b. Less preparation is required for each feature and issue in agile environments
 Cons:
 a. Agile development can lead to a lack of documentation. Because planning and progress are a higher priority during sprints, documentation may be abandoned.
 b. There may be difficulty with variable goals as each task is unique. This can lead to inaccurate costs and deadlines.
+
+2. Scrum Master vs. Product Owner
+A scrum master leads the development team and supports the product owner by providing updates on the status of development. The product owner manages the backlog and ensures that the project meets the deliverable and client needs.
