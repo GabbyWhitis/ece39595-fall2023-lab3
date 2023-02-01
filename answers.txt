@@ -16,3 +16,6 @@ a. Sprint planning meeting: figure out what tasks need to be completed in a comi
 b. Daily scrum/standup meeting: discuss completed work, discuss anticipated work, discuss any blockers that have/might occur
 
 c. Retrospective meeting: discuss completed work, discuss work that needs to be moved to the backlog because it wasn't finished
+
+4. Difference between an Epic, Story, Bug, and Task
+An epics is a large body of work that can be broken down into stories, bugs, and tasks. A story is a goal of the project. Tasks make up stories and are to-dos. Bugs are any issues that occur during development.
