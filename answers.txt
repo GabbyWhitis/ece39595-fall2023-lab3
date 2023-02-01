@@ -1,0 +1,21 @@
+1. Pros and Cons of Agile development
+Pros:
+a. Agile development allows for continous improvement. Each sprint allows for features and issues to continously be developed and enhanced.
+b. Less preparation is required for each feature and issue in agile environments. Becuase there are numerous sprints and iterations for each task, they can be broken down into more manageable pieces and improved faster.
+
+Cons:
+a. Agile development can lead to a lack of documentation. Because planning and progress are a higher priority during sprints, documentation may be abandoned.
+b. There may be difficulty with variable goals as each task is unique. This can lead to inaccurate costs and deadlines.
+
+2. Scrum Master vs. Product Owner
+A scrum master leads the development team and supports the product owner by providing updates on the status of development. The product owner manages the backlog and ensures that the project meets the deliverable and client needs.
+
+3. 3 types of meetings during a sprint cycle
+a. Sprint planning meeting: figure out what tasks need to be completed in a coming sprint, assign story points to team members and discuss who will complete what
+
+b. Daily scrum/standup meeting: discuss completed work, discuss anticipated work, discuss any blockers that have/might occur
+
+c. Retrospective meeting: discuss completed work, discuss work that needs to be moved to the backlog because it wasn't finished
+
+4. Difference between an Epic, Story, Bug, and Task
+An epics is a large body of work that can be broken down into stories, bugs, and tasks. A story is a goal of the project. Tasks make up stories and are to-dos. Bugs are any issues that occur during development.
